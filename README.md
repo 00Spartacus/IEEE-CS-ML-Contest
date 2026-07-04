@@ -1,5 +1,4 @@
 # HARBOR-QA: Retrieval-Augmented Few-Shot Prompting for Bengali Factoid QA
-
 <p align="center">
   <img src="https://img.shields.io/badge/Task-Bengali%20QA-blue" />
   <img src="https://img.shields.io/badge/Private%20F1-0.6550-brightgreen" />
@@ -12,7 +11,26 @@
 > **Competition:** "Are You Sure LLM Is Enough?" — Intra-CUET ML Contest 2.0  
 > **Venue:** Published as a system description paper at **ACL 2026 Workshops**  
 > **Authors:** Shuva Dey · Priyangshu Barua — *Chittagong University of Engineering & Technology (CUET)*
+<p align="center">
+  <img src="docs/banner.png" width="900"/>
+</p>
 
+<h1 align="center">
+HARBOR-QA
+</h1>
+
+<p align="center">
+Training-Free Retrieval-Augmented Few-Shot Question Answering for Bengali Wikipedia
+</p>
+
+<p align="center">
+
+[![ACL 2026](https://img.shields.io/badge/ACL-2026-blue)]()
+[![Private F1](https://img.shields.io/badge/Private%20F1-0.6550-success)]()
+[![Training](https://img.shields.io/badge/Training-Free-orange)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+
+</p>
 ---
 
 ## Overview
