@@ -202,24 +202,6 @@ All parameters are centralised in **Cell 3** for full reproducibility:
 
 ---
 
-## Citation
-
-If you use HARBOR-QA in your research, please cite:
-
-```bibtex
-@inproceedings{dey2026harborqa,
-  title     = {{HARBOR-QA}: A Retrieval-Augmented Few-Shot Prompting System
-               for Bengali Factoid Question Answering},
-  author    = {Dey, Shuva and Barua, Priyangshu},
-  booktitle = {Proceedings of the ACL 2026 Workshop on Social Media Mining
-               for Health Research and Applications (SMM4H-HeaRD)},
-  year      = {2026},
-  address   = {Chittagong University of Engineering \& Technology, Bangladesh}
-}
-```
-
----
-
 ## Acknowledgements
 
 The competition dataset is derived from [Indic-RAG-Suite](https://huggingface.co/datasets/ai4bharat/Indic-Rag-Suite) assembled by AI4Bharat. Knowledge base construction is credited to [Ratnajit Dhar](https://www.kaggle.com/code/ratnajitdhar08/creating-dataset-for-ml-contest). We thank the competition organisers at CUET for providing evaluation infrastructure.
